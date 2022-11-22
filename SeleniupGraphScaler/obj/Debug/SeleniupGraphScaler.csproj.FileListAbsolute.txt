@@ -1,0 +1,11 @@
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.csproj.AssemblyReference.cache
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.Form1.resources
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.csproj.GenerateResource.cache
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\bin\Debug\SeleniupGraphScaler.exe.config
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\bin\Debug\SeleniupGraphScaler.exe
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\bin\Debug\SeleniupGraphScaler.pdb
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\bin\Debug\WebDriver.dll
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.Properties.Resources.resources
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.csproj.CoreCompileInputs.cache
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.exe
+C:\C#\SeleniupGraphScaler\SeleniupGraphScaler\obj\Debug\SeleniupGraphScaler.pdb
